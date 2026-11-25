@@ -1,5 +1,5 @@
 <!-- Contribution map (animated snake eating your real contribution graph).
-     Generated daily by .github/workflows/snake.yml — see setup step 3. -->
+     Generated daily by .github/workflows/snake.yml -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedTrhan/MuhammedTrhan/output/github-snake-dark.svg" />
@@ -33,17 +33,26 @@
 
 <!-- Edit the list after ?i= to match your skills. All icon names: https://skillicons.dev -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,git,linux,vscode,arduino" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,js,html,css,git,linux,vscode,arduino" alt="skills" />
+</p>
+
+### Game Development:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=unity,cs,godot" alt="Unity, C#, Godot" />
+  <br />
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
 </p>
 
 ---
 
+<!-- Replace YOUR-APP with your own Vercel deployment (see setup notes) so private repos are counted. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedTrhan&layout=compact&theme=github_dark&hide_border=false&langs_count=8" alt="Most used languages" />
+  <img src="https://YOUR-APP.vercel.app/api/top-langs/?username=MuhammedTrhan&layout=compact&theme=github_dark&hide_border=false&langs_count=10" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedTrhan&show_icons=true&theme=github_dark&commits_year=2026&count_private=true" alt="GitHub stats" />
+  <img src="https://YOUR-APP.vercel.app/api?username=MuhammedTrhan&show_icons=true&theme=github_dark&commits_year=2026&count_private=true" alt="GitHub stats" />
 </p>
 
 <p align="center">
