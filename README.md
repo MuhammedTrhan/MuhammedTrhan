@@ -46,19 +46,11 @@
 
 ---
 
-<!-- Replace YOUR-APP with your own Vercel deployment (see setup notes) so private repos are counted. -->
+<!-- Stats + languages (includes private repos). Generated daily by .github/workflows/metrics.yml -->
 <p align="center">
-  <img src="https://YOUR-APP.vercel.app/api/top-langs/?username=MuhammedTrhan&layout=compact&theme=github_dark&hide_border=false&langs_count=10" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://YOUR-APP.vercel.app/api?username=MuhammedTrhan&show_icons=true&theme=github_dark&commits_year=2026&count_private=true" alt="GitHub stats" />
+  <img src="./metrics.svg" alt="GitHub stats and most used languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=MuhammedTrhan&theme=github-dark-blue&hide_border=false" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammedTrhan&theme=github-compact&hide_border=false&area=true" alt="Contribution activity graph" width="100%" />
 </p>
