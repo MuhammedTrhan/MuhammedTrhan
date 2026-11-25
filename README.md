@@ -1,16 +1,55 @@
-## Hi there 👋
+<!-- Contribution map (animated snake eating your real contribution graph).
+     Generated daily by .github/workflows/snake.yml — see setup step 3. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammedTrhan/MuhammedTrhan/output/github-snake-dark.svg" />
+    <img alt="Muhammed's contribution graph" src="https://raw.githubusercontent.com/MuhammedTrhan/MuhammedTrhan/output/github-snake.svg" />
+  </picture>
+</p>
 
-<!--
-**MuhammedTrhan/MuhammedTrhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Muhammed Turhan</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhammedTrhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Engineering student at **Ege University**
+- 🇩🇪 Completed **Erasmus at THM** (Technische Hochschule Mittelhessen)
+- 🔧 Interested in embedded systems, game development and microcontrollers
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhammed-turhan)
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muhammed-turhan" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/MuhammedTrhan" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
+
+### Languages and Tools:
+
+<!-- Edit the list after ?i= to match your skills. All icon names: https://skillicons.dev -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,git,linux,vscode,arduino" alt="skills" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedTrhan&layout=compact&theme=github_dark&hide_border=false&langs_count=8" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammedTrhan&show_icons=true&theme=github_dark&commits_year=2026&count_private=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammedTrhan&theme=github-dark-blue&hide_border=false" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammedTrhan&theme=github-compact&hide_border=false&area=true" alt="Contribution activity graph" width="100%" />
+</p>
